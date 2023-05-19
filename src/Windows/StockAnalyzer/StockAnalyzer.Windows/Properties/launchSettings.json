@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "StockAnalyzer.Windows": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\Projects\\NET\\Trainning\\csharp10-asynchronous-programming\\src\\Windows\\StockAnalyzer\\StockAnalyzer.Windows"
+    }
+  }
+}
